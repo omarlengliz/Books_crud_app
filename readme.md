@@ -39,7 +39,7 @@ books-crud-app/
 2. Navigate to the project directory:
 
    ```bash
-   cd books-crud-app
+   cd Books_crud_app
    ```
 
 3. Install the project dependencies:
